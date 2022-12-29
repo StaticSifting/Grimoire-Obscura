@@ -1,0 +1,12 @@
+[
+    {
+        "type": "MOD_INFO",
+        "id": "grimobscura",
+        "name": "Grimoire Obscura",
+        "authors": ["Grimlyssa" ],
+        "maintainers": [ "Grimlyssa" ],
+        "description": "A magic mod with a focus on process and ritual, while looking cute to boot!",
+        "category": "magical",
+        "dependencies": [ "dda", "magiclysm" ]
+    }
+]

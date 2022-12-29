@@ -1,0 +1,17 @@
+[
+    {
+        "type": "tool_quality",
+        "id": "SEW_MAGIC",
+        "name": { "str": "magic sewing" }
+    },
+    {
+        "type": "tool_quality",
+        "id": "CROCHET",
+        "name": { "str": "crocheting" }
+    },
+    {
+        "type": "tool_quality",
+        "id": "LACE",
+        "name": { "str": "lace hooking" }
+    }
+]

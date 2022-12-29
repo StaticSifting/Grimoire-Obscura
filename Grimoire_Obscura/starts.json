@@ -1,0 +1,28 @@
+[
+    {
+        "type": "scenario",
+        "id": "sacrifice",
+        "name": "Challenge - sacrifice",
+        "points": -4,
+        "description": "Cursed child, of slain father and orphaned by birth, we give you up to the gods. May they wash the curse from our lands.",
+        "allowed_locs": [ "sloc_standing_stones", "sloc_hot_springs", "sloc_pond_field" ],
+        "start_name": "Shrine",
+        "forced_traits": [ "ALBINO", "TROGLO", "XS" ],
+        "forbidden_traits": [ "TOUGH", "DISRESISTANT", "THICKSKIN" ],
+        "professions": [ "whitesnake" ],
+        "flags": [ "CHALLENGE", "LONE_START" ]
+    },
+    {
+        "type": "profession",
+        "id": "whitesnake",
+        "name": "White Serpent Sacrifice",
+        "description": "A wreched child given up to Ugajin to carry off to Benzaiten in an effort to cleanse the world of impurities. You've waited so long the ropes have come loose and nothing has come for you yet...'",
+        "points": 0,
+        "items": {
+            "both": {
+                "items": [ "ofuda_ears", "ofuda_eyes", "ofuda_tongue", "ofuda_sacrifice_hand", "ofuda_sacrifice_foot", "ofuda_belly", "ofuda_top", "ofuda_bottom", "ofuda_stockings", "ofuda_sleeves", "rope_makeshift_30" ]
+            },
+        "flags": [ "SCEN_ONLY" ]
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "result": "magical_research_paper_0",
+    "category": "CC_RESEARCH",
+    "subcategory": "CSC_RESEARCH_PAPERS",
+    "difficulty": 0,
+    "time": "2h",
+    "autolearn": true,
+    "using": [ [ "writing_standard", 1 ] ],
+    "components": [ [ [ "paper", 1 ] ] ],
+    "proficiencies": [
+      { "proficiency": "prof_magical_musing", "fail_multiplier": 1, "required": false }
+    ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "result": "magical_research_paper_1",
+    "category": "CC_RESEARCH",
+    "subcategory": "CSC_RESEARCH_PAPERS",
+    "difficulty": 0,
+    "time": "4h",
+    "book_learn": [ [ "magical_research_paper_0", 1 ] ],
+    "using": [ [ "writing_standard", 1 ] ],
+    "components": [ [ [ "paper", 1 ] ] ],
+    "proficiencies": [
+      { "proficiency": "prof_magical_musing", "required": true },
+      { "proficiency": "prof_magical_research", "required": false }
+    ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "result": "magical_research_paper_2",
+    "category": "CC_RESEARCH",
+    "subcategory": "CSC_RESEARCH_PAPERS",
+    "difficulty": 0,
+    "time": "5h",
+    "book_learn": [ [ "magical_research_paper_1", 1 ] ],
+    "using": [ [ "writing_standard", 1 ] ],
+    "components": [ [ [ "paper", 1 ] ] ],
+    "proficiencies": [
+      { "proficiency": "prof_magical_musing", "required": true },
+      { "proficiency": "prof_magical_research", "required": true },
+      { "proficiency": "prof_magical_theory", "required": false }
+    ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "result": "magical_research_volume_2",
+    "category": "CC_RESEARCH",
+    "subcategory": "CSC_RESEARCH_VOLUMES",
+    "difficulty": 5,
+    "time": "10h",
+    "book_learn": [ [ "magical_research_paper_2", 2 ] ],
+    "using": [ [ "writing_standard", 1 ] ],
+    "components": [ [ [ "paper", 10 ], [ "magical_research_paper_2", 5 ] ] ],
+    "proficiencies": [
+      { "proficiency": "prof_magical_research", "required": true },
+      { "proficiency": "prof_magical_theory", "required": true }
+    ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "result": "magical_research_volume_2_application",
+    "category": "CC_RESEARCH",
+    "subcategory": "CSC_RESEARCH_VOLUMES",
+    "difficulty": 0,
+    "time": "10h",
+    "book_learn": [ [ "magical_research_volume_2", 2 ] ],
+    "using": [ [ "writing_standard", 1 ] ],
+    "tools": [ [ [ "magical_research_volume_2", -1 ] ] ],
+    "components": [ [ [ "paper", 30 ] ] ],
+    "proficiencies": [
+      { "proficiency": "prof_magical_research", "required": true },
+      { "proficiency": "prof_magical_theory", "required": true }
+    ]
+  },
+  {
+    "type": "recipe",
+    "activity_level": "NO_EXERCISE",
+    "result": "sense_magic_scroll",
+    "category": "CC_RESEARCH",
+    "subcategory": "CSC_RESEARCH_CONCLUSIONS",
+    "difficulty": 0,
+    "time": "16h",
+    "book_learn": [ [ "magical_research_volume_2_application", 2 ] ],
+    "using": [ [ "writing_standard", 1 ] ],
+    "tools": [ [ [ "magical_research_volume_2", -1 ] ] ],
+    "components": [ [ [ "paper", 10 ] ] ],
+    "proficiencies": [
+      { "proficiency": "prof_magical_theory", "required": true }
+    ]
+  }
+]

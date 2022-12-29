@@ -1,0 +1,215 @@
+[
+    {
+        "type": "material",
+        "id": "temporal_lace",
+        "name": "Temporal Lace",
+        "density": 3,
+        "specific_heat_liquid": 0.02,
+        "specific_heat_solid": 0.02,
+        "soft": true,
+        "latent_heat": -30,
+        "bash_resist": 3,
+        "cut_resist": 3,
+        "bullet_resist": 9,
+        "acid_resist": 3,
+        "fire_resist": 3,
+        "elec_resist": 3,
+        "chip_resist": 9,
+        "reinforces": true,
+        "breathability": "MOISTURE_WICKING",
+        "repaired_with": "temporal_lace_felt_patch",
+        "salvaged_into": "temporal_lace_felt_patch",
+        "dmg_adj": [ "ripped", "torn", "shredded", "tattered" ],
+        "bash_dmg_verb": "ripped",
+        "cut_dmg_verb": "sliced",
+        "burn_data": [
+            {
+                "fuel": 1,
+                "smoke": 3,
+                "burn": 1,
+                "volume_per_turn": "1250 ml"
+            },
+            {
+                "fuel": 1,
+                "smoke": 3,
+                "burn": 2
+            },
+            {
+                "fuel": 1,
+                "smoke": 3,
+                "burn": 5
+            }
+        ]
+    },
+    {
+        "type": "material",
+        "id": "runestone",
+        "name": "Runestone",
+        "copy-from": "stone",
+        "fuel_data": { "energy": "5000 kJ" }
+    },
+    {
+        "type": "material",
+        "id": "skipped_heatbeats",
+        "name": "Skipped Heatbeats",
+        "copy-from": "pseudo_fuel",
+        "fuel_data": {
+            "energy": "250000 kJ",
+            "perpetual": true
+        }
+    },
+    {
+        "type": "material",
+        "id": "enchanted_nectar",
+        "name": "enchanted nectar",
+        "copy-from": "pseudo_fuel",
+        "fuel_data": {
+            "energy": "500000 kJ",
+            "perpetual": true
+        }
+    },
+    {
+        "type": "material",
+        "id": "goddess_tears",
+        "name": "Goddess tears",
+        "copy-from": "pseudo_fuel",
+        "fuel_data": {
+            "energy": "1000000 kJ",
+            "perpetual": true
+        }
+    },
+    {
+        "type": "material",
+        "id": "empowered_bone",
+        "name": "empowered bone",
+        "density": 5,
+        "reinforces": false,
+        "bash_resist": 5,
+        "cut_resist": 10,
+        "bullet_resist": 5,
+        "acid_resist": 20,
+        "fire_resist": 20,
+        "elec_resist": 20,
+        "chip_resist": 10,
+        "dmg_adj": [ "scratched", "chipped", "smashed", "shredded" ],
+        "bash_dmg_verb": "ripped",
+        "cut_dmg_verb": "sliced"
+    },
+    {
+        "type": "material",
+        "id": "witchwicker",
+        "name": "Witchwicker",
+        "density": 0.45,
+        "specific_heat_liquid": 1.7,
+        "specific_heat_solid": 1.7,
+        "latent_heat": 273,
+        "bash_resist": 3,
+        "cut_resist": 3,
+        "bullet_resist": 3,
+        "acid_resist": 5,
+        "fire_resist": 5,
+        "elec_resist": 5,
+        "chip_resist": 15,
+        "breathability": "AVERAGE",
+        "repaired_with": "witchwicker_splines",
+        "salvaged_into": "splinter",
+        "dmg_adj": [ "scratched", "chipped", "cracked", "splintered" ],
+        "bash_dmg_verb": "splintered",
+        "cut_dmg_verb": "gouged",
+        "burn_data": [
+            {
+                "fuel": 1,
+                "smoke": 3,
+                "burn": 0.01,
+                "volume_per_turn": "200 ml"
+            },
+            {
+                "fuel": 2,
+                "smoke": 3,
+                "burn": 0.02,
+                "volume_per_turn": "825 ml"
+            },
+            {
+                "fuel": 3,
+                "smoke": 3,
+                "burn": 0.03
+            }
+        ],
+        "burn_products": [ [ "ash", 0.018 ] ],
+        "fuel_data": { "energy": "5000 kJ" }
+    },
+    {
+        "type": "material",
+        "id": "runic_filigre",
+        "name": "runic filigre",
+        "density": 13,
+        "bash_resist": 13,
+        "specific_heat_liquid": 0.82,
+        "specific_heat_solid": 0.45,
+        "latent_heat": 273,
+        "cut_resist": 20,
+        "bullet_resist": 16,
+        "acid_resist": 10,
+        "fire_resist": 10,
+        "elec_resist": 10,
+        "chip_resist": 40,
+        "repaired_with": "filigre_scrap",
+        "dmg_adj": [ "scratched", "dented", "smashed", "shattered" ],
+        "bash_dmg_verb": "dented",
+        "cut_dmg_verb": "scratched"
+    },
+    {
+        "id": "filigre_scrap",
+        "type": "AMMO",
+        "category": "spare_parts",
+        "name": {
+            "str": "piece of runic filigre",
+            "str_pl": "pieces of runic filigre"
+        },
+        "description": "small puzzle pieces of mismatched filigre.  Needs to be put together into a patterned cage to be useful.",
+        "weight": "675 g",
+        "volume": "250 ml",
+        "price": 2500,
+        "bashing": 12,
+        "to_hit": -4,
+        "stack_size": 5,
+        "material": [ "runic_filigre" ],
+        "symbol": ",",
+        "color": "light_blue",
+        "ammo_type": "components"
+    },
+    {
+        "id": "filigre_ingot",
+        "type": "GENERIC",
+        "category": "spare_parts",
+        "name": "runic filigre cage",
+        "description": "A tiny cage of runic filigre.  Ready to be used in various crafts.",
+        "//": "density of aluminum",
+        "weight": "683 g",
+        "volume": "253 ml",
+        "price": 6399,
+        "bashing": 6,
+        "to_hit": -3,
+        "material": [ "runic_filigre" ],
+        "symbol": "=",
+        "color": "light_blue"
+    },
+    {
+        "type": "GENERIC",
+        "id": "witchwicker_splines",
+        "symbol": "/",
+        "color": "brown",
+        "name": { "str": "witchwicker splines" },
+        "description": "A respectable length of wood that has been carved with runes and soaked in blood until pliable.",
+        "material": [ "witchwicker" ],
+        "techniques": [ "WBLOCK_1" ],
+        "flags": [ "TRADER_AVOID", "FIREWOOD" ],
+        "weapon_category": [ "BATONS" ],
+        "weight": "1000 g",
+        "volume": "2500 ml",
+        "longest_side": "130 cm",
+        "bashing": 6,
+        "to_hit": -1,
+        "category": "spare_parts"
+    }
+]

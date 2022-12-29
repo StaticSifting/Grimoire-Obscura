@@ -1,0 +1,242 @@
+[
+    {
+        "id": "needle_magic",
+        "type": "TOOL",
+        "name": { "str": "runed needle" },
+        "description": "This is a sharp needle made from a bone or wood and inlaid with runes.  It would be useful for making rough magic clothing and items.  Its low quality makes it rather unsuitable for anything requiring speed or precision.",
+        "weight": "15 g",
+        "volume": "10 ml",
+        "price": 0,
+        "price_postapoc": 10,
+        "material": [ "bone", "wood" ],
+        "symbol": ";",
+        "color": "white",
+        "ammo": [ "thread" ],
+        "sub": "sewing_kit",
+        "pocket_data": [
+            {
+                "pocket_type": "MAGAZINE",
+                "ammo_restriction": { "thread": 100 }
+            }
+        ],
+        "charges_per_use": 1,
+        "qualities": [
+            [ "SEW", 2 ],
+            [ "SEW_MAGIC", 1 ]
+        ],
+        "use_action": {
+            "type": "repair_item",
+            "item_action_type": "repair_fabric",
+            "materials": [
+                "cotton",
+                "leather",
+                "lycra",
+                "nylon",
+                "wool",
+                "fur",
+                "faux_fur",
+                "nomex",
+                "kevlar",
+                "kevlar_layered",
+                "gutskin",
+                "canvas"
+            ],
+            "skill": "tailor",
+            "tool_quality": -1,
+            "cost_scaling": 0.1,
+            "move_cost": 1300
+        },
+        "flags": [ "STAB", "FRAGILE_MELEE", "ALLOWS_REMOTE_USE" ]
+    },
+    {
+        "id": "needle_gold",
+        "type": "TOOL",
+        "name": { "str": "golden needle" },
+        "description": "This is a gold needle singing with power, it's warm to the touch'.  It would be useful for making magic clothing and items.",
+        "weight": "8 g",
+        "volume": "1 ml",
+        "price": 0,
+        "price_postapoc": 10,
+        "material": [ "gold" ],
+        "symbol": ";",
+        "color": "light_gray",
+        "ammo": [ "thread" ],
+        "sub": "sewing_kit",
+        "pocket_data": [
+            {
+                "pocket_type": "MAGAZINE",
+                "ammo_restriction": { "thread": 300 }
+            }
+        ],
+        "charges_per_use": 1,
+        "qualities": [
+            [ "SEW", 1 ],
+            [ "SEW_MAGIC", 2 ]
+        ],
+        "use_action": {
+            "type": "repair_item",
+            "item_action_type": "repair_fabric",
+            "materials": [
+                "cotton",
+                "leather",
+                "lycra",
+                "nylon",
+                "wool",
+                "fur",
+                "faux_fur",
+                "nomex",
+                "kevlar",
+                "kevlar_layered",
+                "gutskin",
+                "canvas"
+            ],
+            "skill": "tailor",
+            "tool_quality": 0,
+            "cost_scaling": 0.1,
+            "move_cost": 1000
+        },
+        "flags": [ "STAB", "FRAGILE_MELEE", "ALLOWS_REMOTE_USE" ]
+    },
+    {
+        "id": "needle_silver",
+        "type": "TOOL",
+        "name": { "str": "silver needle" },
+        "description": "This is a silver needle singing with power, it's cold to the touch'.  It would be useful for making magic clothing and items.",
+        "weight": "8 g",
+        "volume": "1 ml",
+        "price": 0,
+        "price_postapoc": 10,
+        "material": [ "silver" ],
+        "symbol": ";",
+        "color": "light_gray",
+        "ammo": [ "thread" ],
+        "sub": "sewing_kit",
+        "pocket_data": [
+            {
+                "pocket_type": "MAGAZINE",
+                "ammo_restriction": { "thread": 300 }
+            }
+        ],
+        "charges_per_use": 1,
+        "qualities": [
+            [ "SEW", 1 ],
+            [ "SEW_MAGIC", 2 ]
+        ],
+        "use_action": {
+            "type": "repair_item",
+            "item_action_type": "repair_fabric",
+            "materials": [
+                "cotton",
+                "leather",
+                "lycra",
+                "nylon",
+                "wool",
+                "fur",
+                "faux_fur",
+                "nomex",
+                "kevlar",
+                "kevlar_layered",
+                "gutskin",
+                "canvas"
+            ],
+            "skill": "tailor",
+            "tool_quality": 0,
+            "cost_scaling": 0.1,
+            "move_cost": 1000
+        },
+        "flags": [ "STAB", "FRAGILE_MELEE", "ALLOWS_REMOTE_USE" ]
+    },
+    {
+        "id": "crochet_hook",
+        "type": "GENERIC",
+        "category": "tools",
+        "name": {
+            "str": "chrochet hook",
+            "str_pl": "handful of crochet hooks"
+        },
+        "description": "A medium gauge wooden crochet hook.",
+        "weight": "28 g",
+        "volume": "25 ml",
+        "longest_side": "12 cm",
+        "price": 600,
+        "price_postapoc": 100,
+        "cutting": 1,
+        "material": [ "wood" ],
+        "symbol": ",",
+        "color": "brown",
+        "qualities": [
+            [ "CROCHET", 1 ]
+        ],
+        "flags": [ "STAB", "FRAGILE_MELEE" ]
+    },
+    {
+        "id": "crochet_hook_lace",
+        "type": "GENERIC",
+        "category": "tools",
+        "name": {
+            "str": "lace hook",
+            "str_pl": "handful of lace hooks"
+        },
+        "description": "A small gauge wooden crochet hook.",
+        "weight": "28 g",
+        "volume": "25 ml",
+        "longest_side": "12 cm",
+        "price": 600,
+        "price_postapoc": 100,
+        "cutting": 1,
+        "material": [ "wood" ],
+        "symbol": ",",
+        "color": "brown",
+        "qualities": [
+            [ "LACE", 1 ]
+        ],
+        "flags": [ "STAB", "FRAGILE_MELEE" ]
+    },
+    {
+        "id": "crochet_hook_knit",
+        "type": "GENERIC",
+        "category": "tools",
+        "name": {
+            "str": "large crochet hook",
+            "str_pl": "handful of large crochet hooks"
+        },
+        "description": "A large gauge wooden crochet hook.",
+        "weight": "28 g",
+        "volume": "25 ml",
+        "longest_side": "12 cm",
+        "price": 600,
+        "price_postapoc": 100,
+        "cutting": 1,
+        "material": [ "wood" ],
+        "symbol": ",",
+        "color": "brown",
+        "qualities": [
+            [ "KNIT", 1 ]
+        ],
+        "flags": [ "STAB", "FRAGILE_MELEE" ]
+    },
+    {
+        "id": "crochet_hook_set",
+        "type": "GENERIC",
+        "category": "tools",
+        "name": {
+            "str": "crochet hook set",
+            "str_pl": "handful of crochet hook sets"
+        },
+        "description": "A bundle of all the crochet hooks you could need for dolls, lace, and even knitwear.",
+        "weight": "90 g",
+        "volume": "60 ml",
+        "longest_side": "12 cm",
+        "price": 900,
+        "price_postapoc": 300,
+        "cutting": 1,
+        "material": [ "wood" ],
+        "symbol": ",",
+        "color": "brown",
+        "qualities": [
+            [ "LACE", 1 ],
+            [ "KNIT", 1 ], [ "CROCHET", 1 ]
+        ],
+        "flags": [ "STAB", "FRAGILE_MELEE" ]
+    }
+]

@@ -1,0 +1,60 @@
+Note, this mod contains updated, repaired, and jury rigged versions of items and clothing from various other mods that are no longer maintained to my knowledge, 
+if you see something in here that you created that you do not want to be in here please email me @ (staticsifting@gmail.com)
+
+Fear not the maiden caress nor the enchantress embrace, for through the mother strain bore the matron sway.
+
+Gear starting with Maiden is costume or comfort pieces.
+Gear starting with Enchantress is erotic or skimpy versions of the piece.
+Gear starting with Mother is heavier duty work clothing, with an emphasis on durability and protection.
+Gear starting with Matron is higher tech pieces made for specialist function or extreme conditions.
+
+sew pockets into everything, ingest highly toxic homemade makeup and cosmetics, make beautiful gowns and decorate them with ribbons, lace, and delicate filigre
+
+You can choose these titles as mutations or gain them ingame, then attune to more specific forms. maiden and enchantress are at odds as are matron and mother.
+Attunements are more neutral modifications that advance you in a specific direction reguardless of your chosen goddess.
+Matriarch is a rare specialization that combines parts of all 4 classess, basically a master debug mode you shouldn't get
+
+Camp pieces:
+cauldrons, drying lines for herbs, dreamcatchers, altars, deity idols, incense holders, circle weaves, ritual kits that deploy, tapistries
+
+Vehicle parts:
+enchanted wicker, skipped heartbeats, goddess tears, enchanted nectar (energy), mystic rose, runic skull (batteries), Sacred Heartstring, Unwavering Promise, Wishing Prayer (engines), talisman modifications, saddlebags (motorcycles and brooms)
+
+Poppets and Totems:
+poppets made of corpses are used to mimic that creature for it's abilities or inflict one of it's attacks on another
+totems are used to draw in spirits and fuel poppets and other witching weapons such as witching wands and regalia
+
+Idols:
+Large idols of various ingame gods can be made and used to perform prays and ask for guidance, they give an array of misc info and advice, just fluff stuff for the most part but some of it can be used like a book
+
+Monsters:
+various capricious fae to trade with or harvest from, approaching them properly is described ingame and the only way to get their resources
+
+Stores:
+ingame vending machines and interdimentional catalogs (like project kawaii) can be found but the means to use them must be made first.
+The vending machine works like a squirrel trap and captures a random goblin to operate it. they break over time and must be rebaited
+Interdimensional catalog comes in the form of animating dead critters such as birds and rabbits and sending them on errants
+
+Special Features:
+transforming weapons and clothing magical girl style where they have simple light forms like ribbons or wands and can be activated to transform into their battle forms
+random quests from gods and fae (the rewards are the books and knowledge you need to continue)
+new tools and qualities and materials, such as lace, silk, and crocheting
+lingerie and underwear expansion for maximum style and comfort and a source of valuble material
+
+Materials:
+salvage gold and silver from jewlery and antiques to make filigre for various cages that trap metaphysical energies and concepts
+salvage lace from vintage clothes to redirect spellwork for magic armor and devices
+longterm delicate or time intensive tasks are used to build up mana and focus for spellwork
+carve runes into bone or wood and soak energies into porous natural materials to make tools and weapons
+witching wicker as a difficult to prepare material for flying brooms and wands and staves, takes sticks or twigs and animal or tainted blood
+
+path of colors for witches
+Green: mainly deals in herbs and potions, very little in the way of combat and armor stuff, the opposite of red and blue
+White: only uses that which is freely given, some animal parts but mainly Green witch stuff and Blue witch stuff, the opposite of black
+Black: works in human and tained blood, mainly makes weapons and armor, the opposite of white
+Blue: mainly an artificer, makes a lot of utility gear and devices, the opposite of red and green
+Red: does big spellwork and wardings, the opposite of blue and green
+Gold: sun worshipper, works better in the day and with heat, opposite of Silver
+Silver: moon worshipper, works better at night and with cold, opposite of Gold
+
+no iron tools, they ground energies and interupt spellwork
