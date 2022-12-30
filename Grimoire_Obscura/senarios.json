@@ -1,0 +1,15 @@
+[
+    {
+        "type": "scenario",
+        "id": "sacrifice",
+        "name": "Challenge - sacrifice",
+        "points": -4,
+        "description": "Cursed child, of slain father and orphaned by birth, we give you up to the gods. May they wash the curse from our lands.",
+        "allowed_locs": [ "sloc_standing_stones", "sloc_hot_springs", "sloc_pond_field" ],
+        "start_name": "Shrine",
+        "forced_traits": [ "ALBINO", "TROGLO", "XS" ],
+        "forbidden_traits": [ "TOUGH", "DISRESISTANT", "THICKSKIN" ],
+        "professions": [ "whitesnake" ],
+        "flags": [ "CHALLENGE", "LONE_START" ]
+    }
+]

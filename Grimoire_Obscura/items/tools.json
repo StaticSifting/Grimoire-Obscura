@@ -239,5 +239,49 @@
             [ "CROCHET", 1 ]
         ],
         "flags": [ "STAB", "FRAGILE_MELEE" ]
+    },
+    {
+        "id": "seam_ripper",
+        "type": "GENERIC",
+        "category": "tools",
+        "name": {
+            "str": "seam ripper"
+        },
+        "description": "A sharp metal seam ripper",
+        "weight": "28 g",
+        "volume": "25 ml",
+        "longest_side": "8 cm",
+        "price": 600,
+        "price_postapoc": 50,
+        "cutting": 3,
+        "material": [ "steel" ],
+        "symbol": ",",
+        "color": "brown",
+        "qualities": [
+            [ "SEAM_RIP", 1 ]
+        ],
+        "flags": [ "STAB" ]
+    },
+    {
+        "id": "seam_ripper_magic",
+        "type": "GENERIC",
+        "category": "tools",
+        "name": {
+            "str": "grounded seam ripper"
+        },
+        "description": "An unnaturally sharp seam ripper, it feels oddly heavy in your hand",
+        "weight": "28 g",
+        "volume": "25 ml",
+        "longest_side": "8 cm",
+        "price": 600,
+        "price_postapoc": 50,
+        "cutting": 4,
+        "material": [ "steel" ],
+        "symbol": ",",
+        "color": "brown",
+        "qualities": [
+            [ "SEAM_RIP", 2 ]
+        ],
+        "flags": [ "STAB" ]
     }
 ]

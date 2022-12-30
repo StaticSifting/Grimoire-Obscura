@@ -1,0 +1,33 @@
+[
+    {
+        "id": "vehicle_stitched_install",
+        "type": "requirement",
+        "qualities": [
+            {
+                "id": "SEW_MAGIC",
+                "level": 2
+            }
+        ],
+        "components": [ [ [ "sinew", 50 ] ] ]
+    },
+    {
+        "id": "vehicle_stiched_removal",
+        "type": "requirement",
+        "qualities": [
+            {
+                "id": "SEAM_RIP",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": "kintsugi",
+        "type": "requirement",
+        "components": [
+            [
+                [ "gold", 50 ],
+                [ "silver", 50 ]
+            ]
+        ]
+    }
+]
