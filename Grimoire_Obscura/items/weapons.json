@@ -1,0 +1,157 @@
+﻿[
+    {
+        "type": "TOOL",
+        "category": "weapons",
+        "id": "heavy_ripper",
+        "name": { "str": "heavy ripper" },
+        "description": "A massively coldiron seam ripper, swinging it is enough to silence even the most powerful enchantment.",
+        "weight": "1500 g",
+        "volume": "2500 ml",
+        "price": 100000,
+        "price_postapoc": 500,
+        "to_hit": 0,
+        "bashing": 10,
+        "cutting": 20,
+        "material": [ "steel" ],
+        "symbol": "/",
+        "color": "brown",
+        "techniques": [ "WBLOCK_1", "BRUTAL", "IMPALE", "MESSY" ],
+        "flags": [ "SHEATH_SWORD", "DURABLE_MELEE" ],
+        "qualities": [
+            [ "CUT", 1 ],
+            [ "BUTCHER", 10 ],
+            [ "SEAM_RIP", 3 ]
+        ]
+    },
+    {
+        "type": "TOOL",
+        "category": "weapons",
+        "id": "yuna_garrote",
+        "name": { "str": "" },
+        "description": "A short length of yuna yarn, it's been spun in such a way as to be the very embodiment of a razors edge.  You can use this as a makeshift garrote, be carfeul not to accidently lose your fingers while holding it!",
+        "weight": "750 g",
+        "volume": "750 ml",
+        "price": 700,
+        "price_postapoc": 50,
+        "to_hit": 1,
+        "cutting": 28,
+        "material": [ "yuna_wool" ],
+        "symbol": "/",
+        "color": "white",
+        "techniques": [ "RAPID", "PRECISE", "DEF_DISARM" ],
+        "flags": [ "SHEATH_KNIFE", "DURABLE_MELEE" ],
+        "qualities": [
+            [ "CUT", 1 ],
+            [ "BUTCHER", 5 ]
+        ]
+    },
+    {
+        "type": "TOOL",
+        "category": "weapons",
+        "id": "battle_scissors",
+        "name": { "str": "witching shears" },
+        "description": "A huge pair of coldiron shears you can sling over your shoulder.  These sissors pack impressively sharp blades that can chop through magic as easily as it does heads.",
+        "weight": "2500 g",
+        "volume": "3750 ml",
+        "price": "300 USD",
+        "to_hit": 1,
+        "cutting": 50,
+        "material": [ "steel" ],
+        "symbol": "/",
+        "color": "white",
+        "techniques": [ "WBLOCK_3", "IMPALE", "MESSY", "ALWAYS_TWOHAND" ],
+        "flags": [ "SHEATH_SWORD", "DURABLE_MELEE" ],
+        "qualities": [
+            [ "CUT", 2 ],
+            [ "BUTCHER", 20 ],
+            [ "SEAM_RIP", 3 ]
+        ],
+        "looks_like": "scissors"
+    },
+    {
+        "id": "true_needle",
+        "type": "TOOL",
+        "name": { "str": "true needle" },
+        "description": "A true needle from myth and legend.  This huge sliver of intricate filigre can pierce the veil between life and death, stitch the fabric of reality together, and even mend rips in time.  It's way too big to be useful in sewing however.'",
+        "weight": "1000 g",
+        "volume": "1500 ml",
+        "longest_side": "100 cm",
+        "price": 98000,
+        "price_postapoc": 2500,
+        "bashing": 3,
+        "cutting": 36,
+        "to_hit": {
+            "grip": "weapon",
+            "length": "long",
+            "surface": "point",
+            "balance": "good"
+        },
+        "material": [ "runic_filigre" ],
+        "symbol": "/",
+        "color": "light_gray",
+        "techniques": [ "RAPID", "WBLOCK_2", "PRECISE" ],
+        "qualities": [
+            [ "CUT", 1 ],
+            [ "BUTCHER", 9 ],
+            [ "SEW_MAGIC", 3 ]
+        ],
+        "flags": [ "STAB", "DURABLE_MELEE", "SHEATH_SWORD", "MESSY" ],
+        "weapon_category": [ "FENCING_WEAPONRY" ],
+        "category": "weapons"
+    },
+    {
+        "id": "flying_needle",
+        "type": "TOOL",
+        "category": "weapons",
+        "symbol": "/",
+        "color": "dark_gray",
+        "name": { "str": "tethered runic needle" },
+        "description": "An enchanted needle tied to your pinky finger, it hovers around you buzzing menencingly.  Luckily it seems to calm down when you sing, so maybe you can still use it to sew.",
+        "price": "750 USD",
+        "material": [ "bone", "cotton" ],
+        "weight": "60 g",
+        "volume": "50 ml",
+        "bashing": 1,
+        "cutting": 18,
+        "to_hit": 1,
+        "techniques": [ "SPIN", "VORPAL" ],
+        "use_action": {
+            "type": "repair_item",
+            "item_action_type": "repair_fabric",
+            "materials": [
+                "cotton",
+                "temp_lace",
+                "yuna_wool",
+                "leather",
+                "lycra",
+                "nylon",
+                "wool",
+                "fur",
+                "faux_fur",
+                "nomex",
+                "kevlar",
+                "kevlar_layered",
+                "gutskin",
+                "canvas"
+            ],
+            "skill": "tailor",
+            "tool_quality": -1,
+            "cost_scaling": 0.1,
+            "move_cost": 1300
+        },
+        "ammo": [ "thread" ],
+        "sub": "sewing_kit",
+        "pocket_data": [
+            {
+                "pocket_type": "MAGAZINE",
+                "ammo_restriction": { "thread": 100 }
+            }
+        ],
+        "charges_per_use": 1,
+        "qualities": [
+            [ "SEW_MAGIC", 1 ],
+            [ "SEW", 2 ]
+        ],
+        "flags": [ "FRAGILE_MELEE", "REACH_ATTACK", "REACH3", "WHIP" ]
+    }
+]

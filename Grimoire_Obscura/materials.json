@@ -1,27 +1,28 @@
 [
     {
         "type": "material",
-        "id": "temporal_lace",
+        "id": "temp_lace",
         "name": "Temporal Lace",
-        "density": 3,
+        "density": 1,
         "specific_heat_liquid": 0.02,
         "specific_heat_solid": 0.02,
+        "latent_heat": 105,
         "soft": true,
-        "latent_heat": -30,
-        "bash_resist": 3,
-        "cut_resist": 3,
-        "bullet_resist": 9,
-        "acid_resist": 3,
-        "fire_resist": 3,
-        "elec_resist": 3,
-        "chip_resist": 9,
         "reinforces": true,
-        "breathability": "MOISTURE_WICKING",
-        "repaired_with": "temporal_lace_felt_patch",
-        "salvaged_into": "temporal_lace_felt_patch",
+        "bash_resist": 8,
+        "cut_resist": 8,
+        "bullet_resist": 8,
+        "acid_resist": 3,
+        "fire_resist": 1,
+        "elec_resist": 1,
+        "chip_resist": 6,
+        "breathability": "AVERAGE",
+        "wind_resist": 70,
+        "repaired_with": "lace_patchwork",
+        "salvaged_into": "lace_patchwork",
         "dmg_adj": [ "ripped", "torn", "shredded", "tattered" ],
         "bash_dmg_verb": "ripped",
-        "cut_dmg_verb": "sliced",
+        "cut_dmg_verb": "cut",
         "burn_data": [
             {
                 "fuel": 1,
@@ -32,14 +33,58 @@
             {
                 "fuel": 1,
                 "smoke": 3,
-                "burn": 2
+                "burn": 1
             },
             {
                 "fuel": 1,
                 "smoke": 3,
-                "burn": 5
+                "burn": 2
             }
         ]
+    },
+    {
+        "type": "material",
+        "id": "yuna_wool",
+        "name": "yuna wool",
+        "density": 2,
+        "specific_heat_liquid": 0.02,
+        "specific_heat_solid": 0.02,
+        "latent_heat": 350,
+        "soft": true,
+        "reinforces": true,
+        "bash_resist": 3,
+        "cut_resist": 1,
+        "bullet_resist": 1,
+        "acid_resist": 8,
+        "fire_resist": 8,
+        "elec_resist": 8,
+        "chip_resist": 8,
+        "breathability": "MOISTURE_WICKING",
+        "wind_resist": 60,
+        "repaired_with": "yuna_patch",
+        "salvaged_into": "yuna_patch",
+        "dmg_adj": [ "ripped", "torn", "shredded", "tattered" ],
+        "bash_dmg_verb": "torn",
+        "cut_dmg_verb": "cut",
+        "burn_data": [
+            {
+                "fuel": 1,
+                "smoke": 5,
+                "burn": 1,
+                "volume_per_turn": "1250 ml"
+            },
+            {
+                "fuel": 1,
+                "smoke": 5,
+                "burn": 2
+            },
+            {
+                "fuel": 1,
+                "smoke": 5,
+                "burn": 5
+            }
+        ],
+        "burn_products": [ [ "corpse_ash", 0.035 ] ]
     },
     {
         "type": "material",

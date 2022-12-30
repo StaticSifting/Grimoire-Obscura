@@ -2,13 +2,13 @@
     {
         "id": "needle_magic",
         "type": "TOOL",
-        "name": { "str": "runed needle" },
+        "name": { "str": "runic needle" },
         "description": "This is a sharp needle made from a bone or wood and inlaid with runes.  It would be useful for making rough magic clothing and items.  Its low quality makes it rather unsuitable for anything requiring speed or precision.",
         "weight": "15 g",
         "volume": "10 ml",
         "price": 0,
         "price_postapoc": 10,
-        "material": [ "bone", "wood" ],
+        "material": [ "bone" ],
         "symbol": ";",
         "color": "white",
         "ammo": [ "thread" ],
@@ -30,6 +30,8 @@
             "materials": [
                 "cotton",
                 "leather",
+                "temp_lace",
+                "yuna_wool",
                 "lycra",
                 "nylon",
                 "wool",
@@ -79,6 +81,8 @@
             "materials": [
                 "cotton",
                 "leather",
+                "temp_lace",
+                "yuna_wool",
                 "lycra",
                 "nylon",
                 "wool",
@@ -128,6 +132,8 @@
             "materials": [
                 "cotton",
                 "leather",
+                "temp_lace",
+                "yuna_wool",
                 "lycra",
                 "nylon",
                 "wool",

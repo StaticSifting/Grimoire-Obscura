@@ -7,7 +7,7 @@
     {
         "type": "tool_quality",
         "id": "SEAM_RIP",
-        "name": { "str": "rip seams" }
+        "name": { "str": "rip seams and seals" }
     },
     {
         "type": "tool_quality",

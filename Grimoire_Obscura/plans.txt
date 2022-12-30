@@ -5,9 +5,9 @@ Fear not the maiden kiss nor the enchantress embrace, for through the mother str
 
 sew pockets into everything, ingest highly toxic homemade makeup and cosmetics, make beautiful gowns and decorate them with ribbons, lace, and delicate filigre
 
-You can choose these titles as mutations or gain them ingame, then attune to more specific forms. maiden and enchantress are at odds as are matron and mother.
+You can choose these titles as mutations or gain them ingame, then attune to more specific forms
 Attunements are more neutral modifications that advance you in a specific direction reguardless of your chosen goddess.
-Matriarch is a rare specialization that combines parts of all 4 classess, basically a master debug mode you shouldn't get
+Metamorph is a rare specialization that combines parts of all other classess, basically a master debug mode you probably shouldn't get
 
 Camp pieces:
 cauldrons, drying lines for herbs, dreamcatchers, altars, deity idols, incense holders, circle weaves, ritual kits that deploy, tapistries
@@ -42,6 +42,7 @@ salvage lace from vintage clothes to redirect spellwork for magic armor and devi
 longterm delicate or time intensive tasks are used to build up mana and focus for spellwork
 carve runes into bone or wood and soak energies into porous natural materials to make tools and weapons
 witching wicker as a difficult to prepare material for flying brooms and wands and staves, takes sticks or twigs and animal or tainted blood
+yuna wool, runic filigre, temporal lace, runestone, empowered bone
 
 path of colors for witches
 Green: mainly deals in herbs and potions, very little in the way of combat and armor stuff, the opposite of red and blue
@@ -53,3 +54,8 @@ Gold: sun worshipper, works better in the day and with heat, opposite of Silver
 Silver: moon worshipper, works better at night and with cold, opposite of Gold
 
 no iron tools, they ground energies and interupt spellwork
+
+Levels of hexstiching/seal ripping
+lvl 1: small objects like clothing and tools
+lvl 2: large objects like car parts and furniture
+lvl 3: large objects like walls and doors (seal portals with a giant sewing needle)
