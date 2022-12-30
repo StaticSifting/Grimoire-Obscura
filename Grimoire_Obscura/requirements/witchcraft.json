@@ -1,0 +1,68 @@
+[
+    {
+        "type": "skill",
+        "id": "witchcraft",
+        "name": { "str": "witchcraft" },
+        "description": "Knowledge of folklore, handicrafts, and applied paraphysics around the hearth.",
+        "companion_survival_rank_factor": 1,
+        "companion_industry_rank_factor": 1,
+        "display_category": "display_interaction",
+        "companion_skill_practice": [
+            {
+                "skill": "hunting",
+                "weight": 10
+            },
+            {
+                "skill": "combat",
+                "weight": 10
+            }
+        ]
+    },
+    {
+        "type": "recipe_category",
+        "id": "CC_WITCHCRAFT",
+        "recipe_subcategories": [
+            "CSC_ALL",
+            "CSC_WITCHCRAFT_INITIATE",
+            "CSC_WITCHCRAFT_WHITE",
+            "CSC_WITCHCRAFT_BLACK",
+            "CSC_WITCHCRAFT_RED",
+            "CSC_WITCHCRAFT_BLUE",
+            "CSC_WITCHCRAFT_GREEN",
+            "CSC_WITCHCRAFT_SILVER",
+            "CSC_WITCHCRAFT_GOLD",
+            "CSC_WITCHCRAFT_MATRIARCH"
+        ]
+    },
+    {
+        "id": "vehicle_stitched_install",
+        "type": "requirement",
+        "qualities": [
+            {
+                "id": "SEW_MAGIC",
+                "level": 2
+            }
+        ],
+        "components": [ [ [ "sinew", 50 ] ] ]
+    },
+    {
+        "id": "vehicle_stiched_removal",
+        "type": "requirement",
+        "qualities": [
+            {
+                "id": "SEAM_RIP",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": "kintsugi",
+        "type": "requirement",
+        "components": [
+            [
+                [ "gold", 50 ],
+                [ "silver", 50 ]
+            ]
+        ]
+    }
+]

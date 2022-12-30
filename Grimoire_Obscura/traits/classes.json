@@ -1,0 +1,86 @@
+[
+    {
+        "type": "mutation",
+        "id": "MAIDEN",
+        "name": "Maiden",
+        "points": 0,
+        "description": "The Maiden, witch of the waxing moon and gathering tides.",
+        "starting_trait": false,
+        "purifiable": false,
+        "valid": false,
+        "cancels": [ "ENCHANTRESS", "MATRON", "MATRIARCH", "MISTRESS", "MONARCH", "METAMORPH" ],
+        "spells_learned": [ [ "create_rune_maiden", 1 ] ]
+    },
+    {
+        "type": "mutation",
+        "id": "ENCHANTRESS",
+        "name": "Enchantress",
+        "points": 0,
+        "description": "The Enchantress, witch of the new moon and unseen forces.",
+        "starting_trait": false,
+        "purifiable": false,
+        "valid": false,
+        "cancels": [ "MAIDEN", "MATRON", "MATRIARCH", "MISTRESS", "MONARCH", "METAMORPH" ],
+        "spells_learned": [ [ "create_rune_enchantress", 1 ] ]
+    },
+    {
+        "type": "mutation",
+        "id": "MATRON",
+        "name": "Matron",
+        "points": 0,
+        "description": "The Matron, witch of the full moon and overwhelming energies.",
+        "starting_trait": false,
+        "purifiable": false,
+        "valid": false,
+        "cancels": [ "MAIDEN", "ENCHANTRESS", "MATRIARCH", "MISTRESS", "MONARCH", "METAMORPH" ],
+        "spells_learned": [ [ "create_rune_matron", 1 ] ]
+    },
+    {
+        "type": "mutation",
+        "id": "MATRIARCH",
+        "name": "Matriach",
+        "points": 0,
+        "description": "The Matriach, witch of the waning moon and grasping power.",
+        "starting_trait": false,
+        "purifiable": false,
+        "valid": false,
+        "cancels": [ "MAIDEN", "ENCHANTRESS", "MATRON", "MISTRESS", "MONARCH", "METAMORPH" ],
+        "spells_learned": [ [ "create_rune_matriach", 1 ] ]
+    },
+    {
+        "type": "mutation",
+        "id": "MISTRESS",
+        "name": "Mistress",
+        "points": 0,
+        "description": "The Mistress, witch of the lunar eclipse and overshadowing ambition.",
+        "starting_trait": false,
+        "purifiable": false,
+        "valid": false,
+        "cancels": [ "MAIDEN", "ENCHANTRESS", "MATRON", "MATRIARCH", "MONARCH", "METAMORPH" ],
+        "spells_learned": [ [ "create_rune_mistress", 1 ] ]
+    },
+    {
+        "type": "mutation",
+        "id": "MONARCH",
+        "name": "Monarch",
+        "points": 0,
+        "description": "The Monarch, witch of the solar eclipse and final word.",
+        "starting_trait": false,
+        "purifiable": false,
+        "valid": false,
+        "cancels": [ "MAIDEN", "ENCHANTRESS", "MATRON", "MATRIARCH", "MISTRESS", "METAMORPH" ],
+        "spells_learned": [ [ "create_rune_monarch", 1 ] ]
+    },
+    {
+        "type": "mutation",
+        "id": "METAMORPH",
+        "name": "Metamorph",
+        "points": 0,
+        "description": "The Metamorph, witch of the cycling phases and changing fortunes.",
+        "starting_trait": false,
+        "purifiable": false,
+        "valid": false,
+        "cancels": [ "MAIDEN", "ENCHANTRESS", "MATRON", "MATRIARCH", "MISTRESS", "MONARCH" ],
+        "spells_learned": [ [ "create_rune_metamorph", 1 ] ]
+    }
+]

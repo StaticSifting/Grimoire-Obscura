@@ -51,7 +51,7 @@
     {
         "type": "material",
         "id": "skipped_heatbeats",
-        "name": "Skipped Heatbeats",
+        "name": "Skipped heatbeats",
         "copy-from": "pseudo_fuel",
         "fuel_data": {
             "energy": "250000 kJ",
@@ -61,7 +61,7 @@
     {
         "type": "material",
         "id": "enchanted_nectar",
-        "name": "enchanted nectar",
+        "name": "Enchanted nectar",
         "copy-from": "pseudo_fuel",
         "fuel_data": {
             "energy": "500000 kJ",

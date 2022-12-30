@@ -235,7 +235,8 @@
         "color": "brown",
         "qualities": [
             [ "LACE", 1 ],
-            [ "KNIT", 1 ], [ "CROCHET", 1 ]
+            [ "KNIT", 1 ],
+            [ "CROCHET", 1 ]
         ],
         "flags": [ "STAB", "FRAGILE_MELEE" ]
     }

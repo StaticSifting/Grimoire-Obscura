@@ -13,7 +13,7 @@
         "symbol": "&",
         "color": "white",
         "warmth": 0,
-        "flags": [ "SKINTIGHT", "DEAF", "SUPER_FANCY", "OVERSIZE", "FRAGILE", "ZERO_WEIGHT", "SEMITANGIBLE", "WATER_DISSOLVE" ],
+        "flags": [ "SKINTIGHT", "DEAF", "FANCY", "OVERSIZE", "FRAGILE", "ZERO_WEIGHT", "SEMITANGIBLE" ],
         "armor": [
             {
                 "encumbrance": 0,
@@ -39,7 +39,7 @@
         "symbol": "&",
         "color": "white",
         "warmth": 0,
-        "flags": [ "SKINTIGHT", "BLIND", "SUPER_FANCY", "OVERSIZE", "FRAGILE", "ZERO_WEIGHT", "SEMITANGIBLE", "WATER_DISSOLVE" ],
+        "flags": [ "SKINTIGHT", "BLIND", "FANCY", "OVERSIZE", "FRAGILE", "ZERO_WEIGHT", "SEMITANGIBLE" ],
         "armor": [
             {
                 "encumbrance": 0,
@@ -65,7 +65,7 @@
         "symbol": "&",
         "color": "white",
         "warmth": 0,
-        "flags": [ "SKINTIGHT", "MUTE", "SUPER_FANCY", "OVERSIZE", "FRAGILE", "ZERO_WEIGHT", "SEMITANGIBLE", "WATER_DISSOLVE" ],
+        "flags": [ "SKINTIGHT", "MUTE", "FANCY", "OVERSIZE", "FRAGILE", "ZERO_WEIGHT", "SEMITANGIBLE" ],
         "armor": [
             {
                 "encumbrance": 0,
@@ -91,7 +91,7 @@
         "symbol": "&",
         "color": "white",
         "warmth": 0,
-        "flags": [ "SKINTIGHT", "SUPER_FANCY", "OVERSIZE", "FRAGILE", "ZERO_WEIGHT", "SEMITANGIBLE", "WATER_DISSOLVE", "RESTRICT_HANDS" ],
+        "flags": [ "SKINTIGHT", "FANCY", "OVERSIZE", "FRAGILE", "ZERO_WEIGHT", "SEMITANGIBLE", "RESTRICT_HANDS" ],
         "armor": [
             {
                 "encumbrance": 0,
@@ -117,7 +117,7 @@
         "symbol": "&",
         "color": "white",
         "warmth": 0,
-        "flags": [ "SKINTIGHT", "SUPER_FANCY", "OVERSIZE", "FRAGILE", "ZERO_WEIGHT", "SEMITANGIBLE", "WATER_DISSOLVE" ],
+        "flags": [ "SKINTIGHT", "FANCY", "OVERSIZE", "FRAGILE", "ZERO_WEIGHT", "SEMITANGIBLE" ],
         "armor": [
             {
                 "encumbrance": 0,
@@ -143,7 +143,7 @@
         "symbol": "&",
         "color": "white",
         "warmth": 0,
-        "flags": [ "SKINTIGHT", "SUPER_FANCY", "OVERSIZE", "FRAGILE", "ZERO_WEIGHT", "SEMITANGIBLE", "WATER_DISSOLVE" ],
+        "flags": [ "SKINTIGHT", "FANCY", "OVERSIZE", "FRAGILE", "ZERO_WEIGHT", "SEMITANGIBLE" ],
         "armor": [
             {
                 "encumbrance": 0,
@@ -172,7 +172,7 @@
         "symbol": "&",
         "color": "white",
         "warmth": 0,
-        "flags": [ "SKINTIGHT", "SUPER_FANCY", "OVERSIZE", "FRAGILE", "ZERO_WEIGHT", "SEMITANGIBLE", "WATER_DISSOLVE" ],
+        "flags": [ "SKINTIGHT", "FANCY", "OVERSIZE", "FRAGILE", "ZERO_WEIGHT", "SEMITANGIBLE" ],
         "armor": [
             {
                 "encumbrance": 0,
@@ -201,7 +201,7 @@
         "symbol": "[",
         "color": "white",
         "warmth": 0,
-        "flags": [ "SKINTIGHT", "SUPER_FANCY", "OVERSIZE", "FRAGILE", "ZERO_WEIGHT", "SEMITANGIBLE", "WATER_DISSOLVE" ],
+        "flags": [ "SKINTIGHT", "FANCY", "OVERSIZE", "FRAGILE", "ZERO_WEIGHT", "SEMITANGIBLE" ],
         "armor": [
             {
                 "encumbrance": 0,
@@ -231,7 +231,7 @@
         "symbol": "[",
         "color": "white",
         "warmth": 0,
-        "flags": [ "SKINTIGHT", "SUPER_FANCY", "OVERSIZE", "FRAGILE", "ZERO_WEIGHT", "SEMITANGIBLE", "WATER_DISSOLVE" ],
+        "flags": [ "SKINTIGHT", "FANCY", "OVERSIZE", "FRAGILE", "ZERO_WEIGHT", "SEMITANGIBLE" ],
         "armor": [
             {
                 "encumbrance": 0,
@@ -257,7 +257,7 @@
         "symbol": "[",
         "color": "white",
         "warmth": 0,
-        "flags": [ "SKINTIGHT", "SUPER_FANCY", "OVERSIZE", "FRAGILE", "ZERO_WEIGHT", "SEMITANGIBLE", "WATER_DISSOLVE" ],
+        "flags": [ "SKINTIGHT", "FANCY", "OVERSIZE", "FRAGILE", "ZERO_WEIGHT", "SEMITANGIBLE" ],
         "armor": [
             {
                 "encumbrance": 0,

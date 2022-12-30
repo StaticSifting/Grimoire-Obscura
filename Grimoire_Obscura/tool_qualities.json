@@ -2,7 +2,12 @@
     {
         "type": "tool_quality",
         "id": "SEW_MAGIC",
-        "name": { "str": "magic sewing" }
+        "name": { "str": "hexing stiches" }
+    },
+    {
+        "type": "tool_quality",
+        "id": "SEAM_RIP",
+        "name": { "str": "rip seams" }
     },
     {
         "type": "tool_quality",

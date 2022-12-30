@@ -1,0 +1,57 @@
+[
+    {
+        "type": "proficiency",
+        "id": "prof_crocheting",
+        "category": "prof_witchcraft",
+        "name": { "str": "Basic Crocheting" },
+        "description": "The ins and outs of basic crocheting.",
+        "can_learn": true,
+        "default_time_multiplier": 2,
+        "default_fail_multiplier": 1.2,
+        "time_to_learn": "2 h"
+    },
+    {
+        "type": "proficiency",
+        "id": "prof_poppet",
+        "category": "prof_witchcraft",
+        "name": { "str": "Poppet Craft" },
+        "description": "Strength and power through the medium of puppetry.",
+        "can_learn": true,
+        "default_time_multiplier": 3,
+        "default_fail_multiplier": 1.8,
+        "time_to_learn": "20 h"
+    },
+    {
+        "type": "proficiency",
+        "id": "prof_rune_carving",
+        "category": "prof_witchcraft",
+        "name": { "str": "Rune Carving" },
+        "description": "Shaping wood, bone, and stone with nothing but blood soaked hands and an engraving tool.",
+        "can_learn": true,
+        "default_time_multiplier": 2,
+        "default_fail_multiplier": 1.2,
+        "time_to_learn": "10 h"
+    },
+    {
+        "type": "proficiency",
+        "id": "prof_broom_pilot",
+        "category": "prof_witchcraft",
+        "name": { "str": "Broom Piloting" },
+        "description": "A license appeared near your altar one day, apparently you're a certified flying object pilot.  Now, you just have to figure out what and how to get airborne.",
+        "can_learn": true,
+        "default_time_multiplier": 5,
+        "default_fail_multiplier": 3,
+        "time_to_learn": "72 h"
+    },
+    {
+        "type": "proficiency",
+        "id": "prof_broom_mechanic",
+        "category": "prof_witchcraft",
+        "name": { "str": "Broom Mechanic" },
+        "description": "You've been trained and certified to repair flying magical objects.  You're not really sure how that revelation will help you pass your flying test.",
+        "can_learn": true,
+        "default_time_multiplier": 5,
+        "default_fail_multiplier": 3,
+        "time_to_learn": "72 h"
+    }
+]
