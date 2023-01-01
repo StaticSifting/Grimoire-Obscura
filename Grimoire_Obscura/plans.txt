@@ -44,6 +44,10 @@ carve runes into bone or wood and soak energies into porous natural materials to
 witching wicker as a difficult to prepare material for flying brooms and wands and staves, takes sticks or twigs and animal or tainted blood
 yuna wool, runic filigre, temporal lace, runestone, empowered bone
 
+runic filigre is made from pieces of antiques dug up as you play or found in houses and pawn shops, you can fuse it into puzzle pieces, put those pieces together into panels and make tiny cages out of the panels that can be used to contain various things you find or need for later
+yuna wool can be collected from anomolies and portal storms, it's used as a power source or a highly radioactive sweater
+
+
 path of colors for witches
 Green: mainly deals in herbs and potions, very little in the way of combat and armor stuff, the opposite of red and blue
 White: only uses that which is freely given, some animal parts but mainly Green witch stuff and Blue witch stuff, the opposite of black

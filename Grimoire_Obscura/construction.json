@@ -1,0 +1,26 @@
+[
+    {
+        "type": "construction",
+        "id": "constr_yuna_pan",
+        "group": "build_yuna_pan",
+        "category": "CONSTRUCT",
+        "required_skills": [ [ "fabrication", 1 ] ],
+        "time": "60 m",
+        "qualities": [
+            [
+                {
+                    "id": "HAMMER",
+                    "level": 2
+                }
+            ]
+        ],
+        "components": [
+            [ [ "glass_capsule", 2000 ] ],
+            [ [ "stick_long", 1 ] ],
+            [ [ "string_36", 20 ] ]
+        ],
+        "pre_note": "Can be deconstructed without tools.",
+        "pre_terrain": "t_door_frame",
+        "post_terrain": "f_yuna_pan"
+    }
+]

@@ -2,7 +2,7 @@
     {
         "type": "tool_quality",
         "id": "SEW_MAGIC",
-        "name": { "str": "hexing stiches" }
+        "name": { "str": "hex stiches" }
     },
     {
         "type": "tool_quality",

@@ -1,0 +1,24 @@
+[
+    {
+        "type": "TOOL",
+        "id": "glass_capsule",
+        "symbol": ",",
+        "color": "light_cyan",
+        "name": { "str": "glass capsule" },
+        "category": "other",
+        "description": "A tiny hollow pill made of glass, according to your notes it can be used to capture small amounts of yuna somehow.",
+        "material": [ "glass" ],
+        "weight": "10 g",
+        "volume": "50 ml",
+        "cutting": 6,
+        "use_action": {
+            "type": "place_trap",
+            "trap": "tr_glass",
+            "moves": 150,
+            "practice": 2,
+            "done_message": "You carefully place the capsule on the ground, ready to be cracked by something passing by."
+        },
+        "flags": [ "TRADER_AVOID", "SINGLE_USE" ],
+        "to_hit": -1
+    }
+]
