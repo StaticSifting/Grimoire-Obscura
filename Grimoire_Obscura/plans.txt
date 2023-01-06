@@ -1,5 +1,8 @@
-Note, this mod contains updated, repaired, and jury rigged versions of items and clothing from various other mods that are no longer maintained to my knowledge, 
+Note: this mod contains updated, repaired, and jury rigged versions of items and clothing from various other mods that are no longer maintained to my knowledge, 
 if you see something in here that you created that you do not want to be in here please email me @ (staticsifting@gmail.com)
+
+Note: there is a fair amount of erotic content included in this mod, not for shock value or perversion but because I believe that part of spirituality and spellwork is reclaiming sexuality and sensuality.
+Being comfortable with your form and knowing your body is important for various parts of spellwork as far as I'm concerned. If it's really that problematic it will be sifted out into a patch in the future.
 
 Fear not the maiden kiss nor the enchantress embrace, for through the mother strain bore the crone sway.
 
@@ -9,57 +12,73 @@ You can choose these titles as mutations or gain them ingame, then attune to mor
 Attunements are more neutral modifications that advance you in a specific direction reguardless of your chosen goddess.
 Metamorph is a rare specialization that combines parts of all other classess, basically a master debug mode you probably shouldn't get
 
-Camp pieces:
-cauldrons, drying lines for herbs, dreamcatchers, altars, deity idols, incense holders, circle weaves, ritual kits that deploy, tapistries
+Crafting requires several stationary tools with specialized qualities:
+Altar for making offerings, can be constructed out of a number of things you find including special rocks, bones, and magic items you find or make
+Idol for prayer, each idol has its own quality of both prayer and devotion to a specific god, basically the more appropriate material it's made out of the easier it is to connect to that deity
+Cauldron for brewing, just a big cooking pot you can light a fire under for making soups and potions
+incense holders, little pots to contain incense, work like braisers but fancy
+Drying lines, dreamcatchers, and yuna sifters are all constructions that are set up, and process like a smoking rack to collect various metaphysical ingredients for crafting
+Tapistries require spinning wheels, looms, and a story to make and then can be constructed like a curtain, stories are gained from npcs and rarely from deconstructing special books
+ritual kits are made from all the ingredients needed to complete the ritual and then deployed like a trap, they are used to ward areas or in construction
+circle of rites, I want them to be big multi-tile layouts that do something interesting and let the players find uses for it, such as making light or acting like a barrier
 
 Vehicle parts:
-enchanted wicker, skipped heartbeats, goddess tears, enchanted nectar (energy), mystic rose, runic skull (batteries), Sacred Heartstring, Unwavering Promise, Wishing Prayer (engines), talisman modifications, saddlebags (motorcycles and brooms)
+Engines: Sacred Heartstring, Wishing Prayer, Unwavering Promise, Endless Sky/Sea/Soil (one for each fueltype)
+Fuel: goddess tears, skipped heartbeats, enchanted nectar
+Batteries: mystic rose, inscribed skull (size matters), twitching poppet, various totems
+Parts: enchanted wicker frames/aisles/boards/doors, saddlebags (motorcycles and brooms), whirlwind token (rotor), floatstone (rotor), fluttering poppet (rotor)
 
 Poppets and Totems:
 poppets made of corpses are used to mimic that creature for it's abilities or inflict one of it's attacks on another
-totems are used to draw in spirits and fuel poppets and other witching weapons such as witching wands and regalia
+totems are used to draw in spirits and fuel poppets, wands, and regalia
 
 Idols:
-Large idols of various ingame gods can be made and used to perform prays and ask for guidance, they give an array of misc info and advice, just fluff stuff for the most part but some of it can be used like a book
+Large idols of various ingame gods can be made and used to perform prayers, ask for guidance, and call a herald
+each deity has a specific material that conducts their messages best, using anything else makes a lesser form of the idol. the second level of the quality is only given to the appropriate materials and required to ask for favors
 
 Monsters:
 various capricious fae to trade with or harvest from, approaching them properly is described ingame and the only way to get their resources
 
 Stores:
 ingame vending machines and interdimentional catalogs (like project kawaii) can be found but the means to use them must be made first.
-The vending machine works like a squirrel trap and captures a random goblin to operate it. they break over time and must be rebaited
-Interdimensional catalog comes in the form of animating dead critters such as birds and rabbits and sending them on errants
+The vending machine works like a squirrel trap and captures a random gobbul to operate it. they break over time and must be rebaited
+animating dead critters such as birds and rabbits and sending them on errants with a symbolic token and receive something in return
 
 Special Features:
-transforming weapons and clothing magical girl style where they have simple light forms like ribbons or wands and can be activated to transform into their battle forms
+transforming weapons and clothing magical girl style where they have simple light forms like ribbons or jewlery and can be activated to transform into their battle forms
 random quests from gods and fae (the rewards are the books and knowledge you need to continue)
 new tools and qualities and materials, such as lace, silk, and crocheting
 lingerie and underwear expansion for maximum style and comfort and a source of valuble material
 
-Materials:
-salvage gold and silver from jewlery and antiques to make filigre for various cages that trap metaphysical energies and concepts
-salvage lace from vintage clothes to redirect spellwork for magic armor and devices
-longterm delicate or time intensive tasks are used to build up mana and focus for spellwork
-carve runes into bone or wood and soak energies into porous natural materials to make tools and weapons
-witching wicker as a difficult to prepare material for flying brooms and wands and staves, takes sticks or twigs and animal or tainted blood
-yuna wool, runic filigre, temporal lace, runestone, empowered bone
+longterm delicate or time intensive tasks are used to build up mana and focus for spellwork, crafting takes a long time for things in this mod
 
-runic filigre is made from pieces of antiques dug up as you play or found in houses and pawn shops, you can fuse it into puzzle pieces, put those pieces together into panels and make tiny cages out of the panels that can be used to contain various things you find or need for later
-yuna wool can be collected from anomolies and portal storms, it's used as a power source or a highly radioactive sweater
-
+enchanted wicker: difficult to prepare material for flying brooms and wands and staves, takes sticks or twigs and animal or tainted blood
+yuna wool: fluffy thread pulled from the fabric of reality itself, perhaps evidence of string theory. this highly radioactive yarn needs to be carefully handled and is mainly obtained by sifting portal storms with a special construction
+runic filigre: little puzzle pieces of precious metal that coldweld together into filigre cages capable of holding conceptual and metaphysical resources
+temporal lace: less so lace and more remnants of memories woven into antique and well-loved clothing, more common in dresses and other pieces that have sentimental or strong memories soaked into them.
+soakstone: porous stones, such as limestone, sandstone, marble, and granite, they have been shaped and engraved to soak up magical energies, songs, and memories
+empowered bone: not just bone but stone and wood as well, the bones of animals, mountains, and forests make for excellent mediums of enforcing will upon the world
 
 path of colors for witches
 Green: mainly deals in herbs and potions, very little in the way of combat and armor stuff, the opposite of red and blue
 White: only uses that which is freely given, some animal parts but mainly Green witch stuff and Blue witch stuff, the opposite of black
-Black: works in human and tained blood, mainly makes weapons and armor, the opposite of white
+Black: works in human and tained blood, mainly makes weapons and armor and red witch stuff, the opposite of white in that they take rather than ask
 Blue: mainly an artificer, makes a lot of utility gear and devices, the opposite of red and green
 Red: does big spellwork and wardings, the opposite of blue and green
 Gold: sun worshipper, works better in the day and with heat, opposite of Silver
 Silver: moon worshipper, works better at night and with cold, opposite of Gold
 
-no iron tools, they ground energies and interupt spellwork
-
 Levels of hexstiching/seal ripping
 lvl 1: small objects like clothing and tools
 lvl 2: large objects like car parts and furniture
-lvl 3: large objects like walls and doors (seal portals with a giant sewing needle)
+lvl 3: huge objects like walls and doors (seal portals with a giant sewing needle)
+
+Giant weapons that mimic the smaller tools
+huge sissors, needles, and various fiberworking tools
+Big teaparty stuff like a spoon mace, a teacup helmet, a saucer buckler
+staves have heavier effects than scepters which are stronger than wands but inversly wands are the most precise and staves are unwieldy with their effective spell sizes and fuel consumption
+the fluffier and fancier the dress you wear the heavier it's protection but worse it's encumbrance, but some of them can be contained inside gemstones and such to only be deployed when fighting evil
+more primal options that offer less protection but more utility, fun stuff like big skull hats and shoulder pads, scarification and tattooing that acts as unremovable clothing but give a sort of spiritual armor
+witch and lolita dresses that are specialized for a specific situation like fire or radiation or being underground
+
+work on the msx art pack after you have most of the stuff in game.
