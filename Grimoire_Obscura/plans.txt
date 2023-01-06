@@ -35,6 +35,15 @@ totems are used to draw in spirits and fuel poppets, wands, and regalia
 Idols:
 Large idols of various ingame gods can be made and used to perform prayers, ask for guidance, and call a herald
 each deity has a specific material that conducts their messages best, using anything else makes a lesser form of the idol. the second level of the quality is only given to the appropriate materials and required to ask for favors
+Inconsequentia (plastic): a throwback goddess of sidequests from dungeons of dredmore, anyone can make her idol and shrine. it mainly gives useless tasks not great enough to be missions, more like random goals for aimless players
+Kichaohchero: her majesty yet unreachable, heralded by the great serpent of glass and smoke, divine rights of sea and sky and the boundry between worlds
+Kigora: her endless cycles percipitated by decisive fury, heralded by the great sparrowhawk of heat and mirrors, divine rights of heavens above and fires below and all who crawl under her eternal warmth
+Kiahescha: her peak of frozen strength and depths of endless bounty, heralded by the great stag of salt and blood, divine rights of mountains and forests and all who squat in her shadow
+Trinity of Fours: she who walks below in step, behind in unity, and before in darkness, heralded by the great panther of unknowable nights, divine rights of forgotten and forsaken and the wreched who follow
+the bound mother: duty bound by chains forged of obligation to hearth and home her eyes plead for freedom yet her hands work endlessly, divine rights of fertility and martyrs, obligation and promises, contract and law, marriage and judgement
+maid Potentia: the maiden of potential in birth of opportunity, she draws in energy and attracts good fortune, divine rights of love and freedom, opportunity and energy, potential and dreams
+Suits and Cycles: hundred faced she weeps and laughs and in each hand she grips a staff and cup and wand and fist of coins her form shifts from this to that in endless cycles and many suits, divine rights of the five suits, the phase of the moon, the circle of life, and the changing of seasons
+
 
 Monsters:
 various capricious fae to trade with or harvest from, approaching them properly is described ingame and the only way to get their resources

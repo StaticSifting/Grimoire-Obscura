@@ -3,13 +3,13 @@
         "type": "profession",
         "id": "whitesnake",
         "name": "White Serpent Sacrifice",
-        "description": "A wreched child given up to Ugajin to carry off to Benzaiten in an effort to cleanse the world of impurities. You've waited so long the ropes have come loose and nothing has come for you yet...'",
+        "description": "A wreched child given up to the great serpent of glass and smoke to carry off to Kichaohchero, her majesty yet unreachable horizons, in an effort to cleanse the world of impurities. You've waited so long the ropes have come loose and nothing has come for you yet...'",
         "points": 0,
         "items": {
             "both": {
                 "items": [ "ofuda_ears", "ofuda_eyes", "ofuda_tongue", "ofuda_sacrifice_hand", "ofuda_sacrifice_foot", "ofuda_belly", "ofuda_top", "ofuda_bottom", "ofuda_stockings", "ofuda_sleeves", "rope_makeshift_30" ]
             },
-        "flags": [ "SCEN_ONLY" ]
+            "flags": [ "SCEN_ONLY" ]
         }
     }
 ]
