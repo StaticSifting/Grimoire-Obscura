@@ -153,5 +153,98 @@
             [ "SEW", 2 ]
         ],
         "flags": [ "FRAGILE_MELEE", "REACH_ATTACK", "REACH3", "WHIP" ]
+    },
+    {
+        "type": "GENERIC",
+        "id": "battle_spoon",
+        "name": { "str": "absinthe mace" },
+        "description": "A huge spoon with twisted filigre patterns where the scoop should be, this one resembles butterflys.",
+        "weight": "1600 g",
+        "color": "yellow",
+        "symbol": "/",
+        "looks_like": "mace",
+        "material": [ "runic_filigre" ],
+        "techniques": [ "WBLOCK_1", "SWEEP" ],
+        "flags": [ "BELT_CLIP", "NONCONDUCTIVE", "DURABLE_MELEE" ],
+        "weapon_category": [ "MACES" ],
+        "volume": "1250 ml",
+        "longest_side": "60 cm",
+        "bashing": 28,
+        "to_hit": {
+            "grip": "weapon",
+            "length": "short",
+            "surface": "any",
+            "balance": "neutral"
+        },
+        "price": 11000,
+        "price_postapoc": 2000,
+        "qualities": [
+            [ "HAMMER", 1 ],
+            [ "COOK", 1 ]
+        ]
+    },
+    {
+        "id": "teacup_helmet",
+        "type": "ARMOR",
+        "category": "armor",
+        "name": { "str": "teacup hat" },
+        "description": "A helmet made from a huge teacup.  While cute it still lacks protection but it's better than nothing.",
+        "weight": "960 g",
+        "volume": "3000 ml",
+        "price": 4500,
+        "price_postapoc": 50,
+        "bashing": 10,
+        "material": [ "ceramic" ],
+        "symbol": "[",
+        "looks_like": "helmet_plate",
+        "color": "light_gray",
+        "warmth": 5,
+        "material_thickness": 2,
+        "qualities": [
+            [ "COOK", 3 ],
+            [ "BOIL", 2 ],
+            [ "CONTAIN", 1 ],
+            [ "CHEM", 1 ],
+            [ "DIVINE", 1 ]
+        ],
+        "techniques": [ "WBLOCK_1" ],
+        "armor": [
+            {
+                "encumbrance_modifiers": [ "IMBALANCED" ],
+                "coverage": 55,
+                "covers": [ "head" ],
+                "flags": [ "FANCY" ]
+            }
+        ]
+    },
+    {
+        "type": "ARMOR",
+        "id": "shield_teacup",
+        "name": {
+            "str": "saucer shield"
+        },
+        "description": "A sheild made from a huge saucer, it pairs well with a teacup helmet",
+        "weight": "440 g",
+        "color": "light_gray",
+        "price": 4500,
+        "price_postapoc": 50,
+        "material": [ "ceramic" ],
+        "volume": "1000 ml",
+        "to_hit": -2,
+        "bashing": 6,
+        "symbol": "[",
+        "sided": true,
+        "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN", "FRAGILE" ],
+        "techniques": [ "WBLOCK_1" ],
+        "armor": [
+            {
+                "encumbrance": 8,
+                "coverage": 20,
+                "covers": [ "arm_l", "arm_r", "hand_l", "hand_r" ],
+                "material": [ "ceramic" ],
+                "material_thickness": 2,
+                "flags": [ "FANCY" ]
+            }
+        ]
     }
 ]
