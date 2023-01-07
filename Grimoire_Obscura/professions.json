@@ -3,11 +3,115 @@
         "type": "profession",
         "id": "whitesnake",
         "name": "White Serpent Sacrifice",
-        "description": "A wreched child given up to the great serpent of glass and smoke to carry off to Kichaohchero, her majesty yet unreachable horizons, in an effort to cleanse the world of impurities. You've waited so long the ropes have come loose and nothing has come for you yet...'",
+        "description": "A wreched child given up to the great serpent of glass and smoke to carry off to Kichaohchero, her Majesty yet Unreachable Shores, in an effort to cleanse the world of impurities. You've waited so long the ropes have come loose and nothing has come for you yet...'",
         "points": 0,
         "items": {
             "both": {
                 "items": [ "ofuda_ears", "ofuda_eyes", "ofuda_tongue", "ofuda_sacrifice_hand", "ofuda_sacrifice_foot", "ofuda_belly", "ofuda_top", "ofuda_bottom", "ofuda_stockings", "ofuda_sleeves", "rope_makeshift_30" ]
+            },
+            "flags": [ "SCEN_ONLY" ]
+        }
+    },
+    {
+        "type": "profession",
+        "id": "devout_sun",
+        "name": "Chosen of Endless Cycles, Witch of Decisive Fury",
+        "description": "In dreams you awoken to power, called forth by the great sparrowhawk formed of heat and mirrors circling above the world.  In fires your reflection spoke to you in screeching tones of a queen, 'Retrive my gift and return my birthright'.",
+        "points": 0,
+        "items": {
+            "both": {
+                "items": []
+            },
+            "flags": [ "SCEN_ONLY" ]
+        }
+    },
+    {
+        "type": "profession",
+        "id": "devout_salt",
+        "name": "Herald of Frozen Strength, Witch of Endless Bounty",
+        "description": "In dreams you awoken to power, called forth by the great stag formed of blood and salt in an ancient forest.  In pillars of salt towering above a sea of bleeding trees she whispered, 'Unearth my tomb and yield your offering'.",
+        "points": 0,
+        "items": {
+            "both": {
+                "items": []
+            },
+            "flags": [ "SCEN_ONLY" ]
+        }
+    },
+    {
+        "type": "profession",
+        "id": "devout_storm",
+        "name": "Herald of Bleak Majesty, Witch of Unreachable Shores",
+        "description": "In dreams you awoken to power, called forth by the great serpent formed of glass and smoke in the depths of an ocean.  In that hazy abyss the sea itself boomed, 'Unworthy, unspeakable wretch, cleanse our body of this infection and gain our favor'.",
+        "points": 0,
+        "items": {
+            "both": {
+                "items": []
+            },
+            "flags": [ "SCEN_ONLY" ]
+        }
+    },
+    {
+        "type": "profession",
+        "id": "devout_four",
+        "name": "Herald of Trinity of Fours, Witch of the Unseen Path",
+        "description": "In dreams you awoken to power, called forth by the great panther formed of starry skies and dreams undreamt in your room but inverted.  In that strange place you fell backwards into your shadow with the knowledge of where you've been before you've gone, begin your path.",
+        "points": 0,
+        "items": {
+            "both": {
+                "items": []
+            },
+            "flags": [ "SCEN_ONLY" ]
+        }
+    },
+    {
+        "type": "profession",
+        "id": "devout_bound_mother",
+        "name": "Herald of the Bound Mother, Duty-bound Witch",
+        "description": "In dreams you awoken to power, you gave birth to chains that endlessly poured out and tethered you to the bed.  As the life was choked from your withering husk the voices grew loud with demands and prophecies.  You must head to that long forgotten shrine and seal away these feels",
+        "points": 0,
+        "items": {
+            "both": {
+                "items": []
+            },
+            "flags": [ "SCEN_ONLY" ]
+        }
+    },
+    {
+        "type": "profession",
+        "id": "devout_maid_potentia",
+        "name": "Herald of Maid Potentia, Witch of Shifting Fate",
+        "description": "In dreams you awoken to power, your body regressed to that of a child, then shifted to a long dead pet, and once again to a beloved toy.  The shifting was slow and comfortable, in this dreamlike state you felt the energies flow around and through you, you grasped them and brought them to the waking world.  Your fate is of your own making.",
+        "points": 0,
+        "items": {
+            "both": {
+                "items": []
+            },
+            "flags": [ "SCEN_ONLY" ]
+        }
+    },
+    {
+        "type": "profession",
+        "id": "devout_suits_cycles",
+        "name": "Herald of Suits and Cycles, Witch of Many Forms",
+        "description": "In dreams you awoken to power, with a hundred faces you weep and laugh and scream, in each hand you grip a staff and a cup and a dagger, and a fist full of coins as the hands continue to bloom from your wrists like flowers.  Your hands and faces never stop multiplying as the seasons rapidly changed around you, in the background animals aged from embryo to death and back again while hunting eachother and frolicking.  The skies flickered from day to night as your skin shifts like the phases of the moon from dark to light and back again, this shivering frost crawls across your very soul.  This is your burden, bring balance back to this broken world.",
+        "points": 0,
+        "items": {
+            "both": {
+                "items": []
+            },
+            "flags": [ "SCEN_ONLY" ]
+        }
+    },
+    {
+        "type": "profession",
+        "id": "devout_mundane",
+        "name": "Herald of Inconsequentia, Witch without memories",
+        "description": "In dreams you probably dreamed something, was it important?  No, it couldn't be, you remember puzzles missing pieces and pairing up socks, the mundanity of housework as furniture floats up to the ceiling and pops, showering you with springs and cotton fluff.  Where are your shoes?  You had them on a minute ago, and the milk is still in the car.  Never forget this child, you must never forget what must be done.",
+        "points": 0,
+        "items": {
+            "both": {
+                "items": []
             },
             "flags": [ "SCEN_ONLY" ]
         }

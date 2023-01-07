@@ -11,5 +11,18 @@
         "forbidden_traits": [ "TOUGH", "DISRESISTANT", "THICKSKIN" ],
         "professions": [ "whitesnake" ],
         "flags": [ "CHALLENGE", "LONE_START" ]
+    },
+    {
+        "type": "scenario",
+        "id": "witch_devout",
+        "name": "Challenge - Herald of Unspeakable Deities",
+        "points": -4,
+        "description": "Ye who hear our voice, heed our call.  Find our tomb and claim the right of heralds.",
+        "allowed_locs": [ "sloc_standing_stones", "sloc_hot_springs", "sloc_pond_field" ],
+        "start_name": "Prayer",
+        "forced_traits": [  ],
+        "forbidden_traits": [  ],
+        "professions": [  ],
+        "flags": [ "CHALLENGE", "LONE_START" ]
     }
 ]
