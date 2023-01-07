@@ -18,5 +18,15 @@
         "type": "tool_quality",
         "id": "LACE",
         "name": { "str": "lace hooking" }
+    },
+    {
+        "type": "tool_quality",
+        "id": "DOUSE",
+        "name": { "str": "dousing" }
+    },
+    {
+        "type": "tool_quality",
+        "id": "DIVINE",
+        "name": { "str": "fortune telling" }
     }
 ]
