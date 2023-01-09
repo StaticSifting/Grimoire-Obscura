@@ -1,0 +1,17 @@
+[
+    {
+        "type": "GENERIC",
+        "category": "currency",
+        "id": "filigre_part",
+        "name": { "str": "strange puzzle pieces" },
+        "description": "A tiny puzzle piece of opalescent metal no bigger than a watermelon seed, when you gather too many in the same place they seem to gravitate toward eachother as if by magnetics.",
+        "price": 5,
+        "price_postapoc": 2,
+        "weight": "1 g",
+        "volume": "1 ml",
+        "to_hit": -3,
+        "color": "green",
+        "symbol": "$",
+        "material": [ "runic_filigre" ]
+    }
+]

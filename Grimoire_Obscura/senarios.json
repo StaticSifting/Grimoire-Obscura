@@ -17,7 +17,7 @@
         "id": "witch_devout",
         "name": "Challenge - Herald of Unspeakable Deities",
         "points": -4,
-        "description": "Ye who hear our voice, heed our call.  Find our tomb and claim the right of heralds.",
+        "description": "Ye who hear our voice, heed our call.  Find a true shrine and claim the right of heralds.",
         "allowed_locs": [ "sloc_standing_stones", "sloc_hot_springs", "sloc_pond_field" ],
         "start_name": "Prayer",
         "forced_traits": [  ],
