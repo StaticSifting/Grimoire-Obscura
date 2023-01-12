@@ -1,17 +1,255 @@
 [
     {
         "type": "GENERIC",
-        "category": "currency",
+        "category": "spare_parts",
         "id": "filigre_part",
-        "name": { "str": "strange puzzle pieces" },
-        "description": "A tiny puzzle piece of opalescent metal no bigger than a watermelon seed, when you gather too many in the same place they seem to gravitate toward eachother as if by magnetics.",
+        "name": { "str": "strange metal pieces" },
+        "description": "A handful tiny puzzle piece of opalescent metal no bigger than a watermelon seed, when you gather too many in the same place they seem to gravitate toward eachother as if by magnets.",
         "price": 5,
         "price_postapoc": 2,
-        "weight": "1 g",
+        "weight": "3 g",
         "volume": "1 ml",
+        "to_hit": -3,
+        "color": "blue",
+        "symbol": "$",
+        "material": [ "runic_filigre" ],
+        "variant_type": "generic",
+        "variants": [
+
+        ]
+    },
+    {
+        "type": "GENERIC",
+        "category": "currency",
+        "id": "filigre_plate",
+        "name": { "str": "opalescent puzzle piece" },
+        "description": "A tiny piece of opalescent metal no bigger than a coin, when you gather too many in the same place they seem to gravitate toward eachother as if by magnets.",
+        "price": 5,
+        "price_postapoc": 2,
+        "weight": "9 g",
+        "volume": "3 ml",
         "to_hit": -3,
         "color": "green",
         "symbol": "$",
-        "material": [ "runic_filigre" ]
+        "material": [ "runic_filigre" ],
+        "variant_type": "generic",
+        "variants": [
+            {
+                "id": "filigre_disk_star",
+                "name": { "str": "intricate star disk" },
+                "description": "A small round disk of opalescent metal no bigger than a coin.  This bears has a spatter of four pointed stars on it in antique gilding.",
+                "color": "dark_green",
+                "weight": 9,
+                "append": true
+            },
+            {
+                "id": "filigre_disk_flower",
+                "name": { "str": "intricate flower disk" },
+                "description": "A small round disk of opalescent metal no bigger than a coin.  This one bears a wreath of three flowers on it encircling a withered rose in antique gilding.",
+                "color": "dark_green",
+                "weight": 3,
+                "append": true
+            },
+            {
+                "id": "filigre_disk_stag",
+                "name": { "str": "intricate stag disk" },
+                "description": "A small round disk of opalescent metal no bigger than a coin.  This one bears a mountain of bones beneath a stag skull in antique gilding.",
+                "color": "dark_green",
+                "weight": 3,
+                "append": true
+            },
+            {
+                "id": "filigre_disk_feather",
+                "name": { "str": "intricate feather disk" },
+                "description": "A small round disk of opalescent metal no bigger than a coin.  This one bears a circle of 13 feathers spiraled around a candle in antique gilding.",
+                "color": "dark_green",
+                "weight": 3,
+                "append": true
+            },
+            {
+                "id": "filigre_disk_palm",
+                "name": { "str": "intricate palm disk" },
+                "description": "A small round disk of opalescent metal no bigger than a coin.  This one bears a palm print with a thumb on either side which is mirrored on bottom half, all in antique gilding.",
+                "color": "dark_green",
+                "weight": 3,
+                "append": true
+            },
+            {
+                "id": "filigre_disk_shield",
+                "name": { "str": "intricate sheild disk" },
+                "description": "A small round disk of opalescent metal no bigger than a coin.  This one bears a quartarly ornate crest on it in antique gilding.  Each corner has a different image, a 3 petal rose with 4 thorns, an antlered human skull, a palm print with 2 thumbs, and a spiral of feathers.",
+                "color": "dark_green",
+                "weight": 9,
+                "append": true
+            },
+            {
+                "id": "filigre_disk_dagger",
+                "name": { "str": "intricate dagger disk" },
+                "description": "A small round disk of opalescent metal no bigger than a coin.  This one bears a triangle of daggers with fluorescent fingerprints and emotions on each blade, all in antique gilding.",
+                "color": "dark_green",
+                "weight": 9,
+                "append": true
+            },
+            {
+                "id": "filigre_disk_pond",
+                "name": { "str": "intricate pond disk" },
+                "description": "A small round disk of opalescent metal no bigger than a coin.  This one bears a pond with the top of a womans head peeking out of it, her hair floats on the surface in tangles, all in antique gilding.",
+                "color": "dark_green",
+                "weight": 9,
+                "append": true
+            },
+            {
+                "id": "filigre_disk_shift",
+                "name": { "str": "intricate memory disk" },
+                "description": "A small round disk of opalescent metal no bigger than a coin.  This one bears shifting images of your memories in antique gilding.",
+                "color": "dark_green",
+                "weight": 13,
+                "append": true
+            },
+            {
+                "id": "filigre_wedge_star",
+                "name": { "str": "intricate star wedge" },
+                "description": "A small triangular wedge of opalescent metal no bigger than a coin.  This bears has a spatter of four pointed stars on it in antique gilding.",
+                "color": "dark_green",
+                "weight": 9,
+                "append": true
+            },
+            {
+                "id": "filigre_wedge_flower",
+                "name": { "str": "intricate flower wedge" },
+                "description": "A small triangular wedge of opalescent metal no bigger than a coin.  This one bears a wreath of three flowers on it encircling a withered rose in antique gilding.",
+                "color": "dark_green",
+                "weight": 3,
+                "append": true
+            },
+            {
+                "id": "filigre_wedge_stag",
+                "name": { "str": "intricate stag wedge" },
+                "description": "A small triangular wedge of opalescent metal no bigger than a coin.  This one bears a mountain of bones beneath a stag skull in antique gilding.",
+                "color": "dark_green",
+                "weight": 3,
+                "append": true
+            },
+            {
+                "id": "filigre_wedge_feather",
+                "name": { "str": "intricate feather wedge" },
+                "description": "A small triangular wedge of opalescent metal no bigger than a coin.  This one bears a circle of 13 feathers spiraled around a candle in antique gilding.",
+                "color": "dark_green",
+                "weight": 3,
+                "append": true
+            },
+            {
+                "id": "filigre_wedge_palm",
+                "name": { "str": "intricate palm wedge" },
+                "description": "A small triangular wedge of opalescent metal no bigger than a coin.  This one bears a palm print with a thumb on either side which is mirrored on bottom half, all in antique gilding.",
+                "color": "dark_green",
+                "weight": 3,
+                "append": true
+            },
+            {
+                "id": "filigre_wedge_shield",
+                "name": { "str": "intricate sheild wedge" },
+                "description": "A small triangular wedge of opalescent metal no bigger than a coin.  This one bears a quartarly ornate crest on it in antique gilding.  Each corner has a different image, a 3 petal rose with 4 thorns, an antlered human skull, a palm print with 2 thumbs, and a spiral of feathers.",
+                "color": "dark_green",
+                "weight": 9,
+                "append": true
+            },
+            {
+                "id": "filigre_wedge_dagger",
+                "name": { "str": "intricate dagger wedge" },
+                "description": "A small triangular wedge of opalescent metal no bigger than a coin.  This one bears a triangle of daggers with fluorescent fingerprints and emotions on each blade, all in antique gilding.",
+                "color": "dark_green",
+                "weight": 9,
+                "append": true
+            },
+            {
+                "id": "filigre_wedge_pond",
+                "name": { "str": "intricate pond wedge" },
+                "description": "A small triangular wedge of opalescent metal no bigger than a coin.  This one bears a pond with the top of a womans head peeking out of it, her hair floats on the surface in tangles, all in antique gilding.",
+                "color": "dark_green",
+                "weight": 9,
+                "append": true
+            },
+            {
+                "id": "filigre_wedge_shift",
+                "name": { "str": "intricate memory wedge" },
+                "description": "A small triangular wedge of opalescent metal no bigger than a coin.  This one bears shifting images of your memories in antique gilding.",
+                "color": "dark_green",
+                "weight": 13,
+                "append": true
+            },
+            {
+                "id": "filigre_panel_star",
+                "name": { "str": "intricate star panel" },
+                "description": "A small square panel of opalescent metal no bigger than a coin.  This bears has a spatter of four pointed stars on it in antique gilding.",
+                "color": "dark_green",
+                "weight": 9,
+                "append": true
+            },
+            {
+                "id": "filigre_panel_flower",
+                "name": { "str": "intricate flower panel" },
+                "description": "A small square panel of opalescent metal no bigger than a coin.  This one bears a wreath of three flowers on it encircling a withered rose in antique gilding.",
+                "color": "dark_green",
+                "weight": 3,
+                "append": true
+            },
+            {
+                "id": "filigre_panel_stag",
+                "name": { "str": "intricate stag panel" },
+                "description": "A small square panel of opalescent metal no bigger than a coin.  This one bears a mountain of bones beneath a stag skull in antique gilding.",
+                "color": "dark_green",
+                "weight": 3,
+                "append": true
+            },
+            {
+                "id": "filigre_panel_feather",
+                "name": { "str": "intricate feather panel" },
+                "description": "A small square panel of opalescent metal no bigger than a coin.  This one bears a circle of 13 feathers spiraled around a candle in antique gilding.",
+                "color": "dark_green",
+                "weight": 3,
+                "append": true
+            },
+            {
+                "id": "filigre_panel_palm",
+                "name": { "str": "intricate palm panel" },
+                "description": "A small square panel of opalescent metal no bigger than a coin.  This one bears a palm print with a thumb on either side which is mirrored on bottom half, all in antique gilding.",
+                "color": "dark_green",
+                "weight": 3,
+                "append": true
+            },
+            {
+                "id": "filigre_panel_shield",
+                "name": { "str": "intricate sheild panel" },
+                "description": "A small square panel of opalescent metal no bigger than a coin.  This one bears a quartarly ornate crest on it in antique gilding.  Each corner has a different image, a 3 petal rose with 4 thorns, an antlered human skull, a palm print with 2 thumbs, and a spiral of feathers.",
+                "color": "dark_green",
+                "weight": 9,
+                "append": true
+            },
+            {
+                "id": "filigre_panel_dagger",
+                "name": { "str": "intricate dagger panel" },
+                "description": "A small square panel of opalescent metal no bigger than a coin.  This one bears a triangle of daggers with fluorescent fingerprints and emotions on each blade, all in antique gilding.",
+                "color": "dark_green",
+                "weight": 9,
+                "append": true
+            },
+            {
+                "id": "filigre_panel_pond",
+                "name": { "str": "intricate pond panel" },
+                "description": "A small square panel of opalescent metal no bigger than a coin.  This one bears a pond with the top of a womans head peeking out of it, her hair floats on the surface in tangles, all in antique gilding.",
+                "color": "dark_green",
+                "weight": 9,
+                "append": true
+            },
+            {
+                "id": "filigre_panel_shift",
+                "name": { "str": "intricate memory panel" },
+                "description": "A small square panel of opalescent metal no bigger than a coin.  This one bears shifting images of your memories in antique gilding.",
+                "color": "dark_green",
+                "weight": 13,
+                "append": true
+            }
+        ]
     }
 ]

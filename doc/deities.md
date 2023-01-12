@@ -1,4 +1,4 @@
-Despite being gendered, All of the deities in this mod lack biological gender and form and rather are identified by their percieved or emmitted gender. They are unknowable, our brains simply fill in some blanks to reduce the strain of looking at the sun psychically so to speak.
+Despite being gendered, All of the deities in this mod lack biological gender and form and rather are identified by their percieved or emmitted feeling. They are unknowable, our brains simply fill in some blanks to reduce the strain of looking at the sun psychically so to speak.
 
 
 Balance Pantheon:
