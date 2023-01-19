@@ -1,0 +1,169 @@
+[
+    {
+        "id": "lolita_dress_generic",
+        "type": "ARMOR",
+        "name": { "str": "lolita dress" },
+        "description": "An impractically lacy dress from the Lolita subculture. Despite all the laces, it is surprisingly easy to move in.",
+        "weight": "700 g",
+        "volume": "5 L",
+        "price": 5000,
+        "price_postapoc": 100,
+        "to_hit": -5,
+        "material": [ "cotton" ],
+        "symbol": "[",
+        "color": "dark_gray",
+        "warmth": 20,
+        "flags": [ "VARSIZE", "SUPER_FANCY" ],
+        "armor": [
+            {
+                "encumbrance": 20,
+                "coverage": 90,
+                "covers": [ "leg_l", "leg_r", "torso", "arm_l", "arm_r" ],
+                "material": [ "cotton" ],
+                "material_thickness": 3
+            }
+        ],
+        "variant_type": "generic",
+        "variants": [
+            {
+                "id": "lolita_dress_gothic",
+                "name": { "str": "gothic lolita dress" },
+                "description": "An impractically lacy dress with cobwebbed lace in a gothic style.  Despite all the laces, it is surprisingly easy to move in.",
+                "color": "gray",
+                "weight": 1,
+                "append": true
+            },
+            {
+                "id": "lolita_dress_sunshine",
+                "name": { "str": "sunshine lolita dress" },
+                "description": "An impractically lacy dress in bright yellows decorated with cloth flowers.  Despite all the laces, it is surprisingly easy to move in.",
+                "color": "gray",
+                "weight": 1,
+                "append": true
+            },
+            {
+                "id": "lolita_dress_patchwork",
+                "name": { "str": "patchy lolita dress" },
+                "description": "An impractically lacy dress decorated with a variety of cute animal patches.  Despite all the laces, it is surprisingly easy to move in.",
+                "color": "gray",
+                "weight": 1,
+                "append": true
+            },
+            {
+                "id": "lolita_dress_frog",
+                "name": { "str": "froggy lolita dress" },
+                "description": "An impractically lacy lime-green dress with decorative lily pads on it.  Despite all the laces, it is surprisingly easy to move in.",
+                "color": "gray",
+                "weight": 1,
+                "append": true
+            },
+            {
+                "id": "lolita_dress_mermaid",
+                "name": { "str": "mermaid lolita dress" },
+                "description": "An impractically lacy dress with a rainbow of sequine scales and a fish motiff.  Despite all the laces, it is surprisingly easy to move in.",
+                "color": "gray",
+                "weight": 1,
+                "append": true
+            },
+            {
+                "id": "lolita_dress_bunny",
+                "name": { "str": "bunny lolita dress" },
+                "description": "An impractically lacy dress designed to look like a small animal.  Despite all the laces, it is surprisingly easy to move in.",
+                "color": "gray",
+                "weight": 1,
+                "append": true
+            },
+            {
+                "id": "lolita_dress_cat",
+                "name": { "str": "cat lolita dress" },
+                "description": "An impractically lacy dress designed to look like a kitty cat.  Despite all the laces, it is surprisingly easy to move in.",
+                "color": "gray",
+                "weight": 1,
+                "append": true
+            }
+        ]
+    },
+    {
+        "id": "lolita_headdress_generic",
+        "type": "ARMOR",
+        "name": { "str": "lolita headdress" },
+        "description": "A lacy headdress meant to be worn with the dress.  It attracts attention.",
+        "weight": "200 g",
+        "volume": "1 L",
+        "price": 500,
+        "price_postapoc": 10,
+        "material": [ "cotton" ],
+        "symbol": "[",
+        "color": "dark_gray",
+        "warmth": 5,
+        "flags": [ "FANCY" ],
+        "armor": [
+            {
+                "encumbrance": 5,
+                "coverage": 20,
+                "covers": [ "head" ],
+                "material": [ "cotton" ],
+                "material_thickness": 1
+            }
+        ],
+        "variant_type": "generic",
+        "variants": [
+            {
+                "id": "lolita_headdress_gothic",
+                "name": { "str": "gothic lolita headdress" },
+                "description": "A lacy gothic headdress meant to be worn with the gothic lolita dress.  It attracts attention.",
+                "color": "gray",
+                "weight": 1,
+                "append": true
+            },
+            {
+                "id": "lolita_headdress_sunshine",
+                "name": { "str": "sunshine lolita headdress" },
+                "description": "A lacy headdress topped with a big sunflower meant to be worn with the sunshine lolita dress.  It attracts attention.",
+                "color": "gray",
+                "weight": 1,
+                "append": true
+            },
+            {
+                "id": "lolita_headdress_patchwork",
+                "name": { "str": "patchy lolita headdress" },
+                "description": "A lacy headdress with several cute patches sew on, meant to be worn with the patchy lolita dress.  It attracts attention.",
+                "color": "gray",
+                "weight": 1,
+                "append": true
+            },
+            {
+                "id": "lolita_headdress_frog",
+                "name": { "str": "froggy lolita headdress" },
+                "description": "A lacy lime-green headdress with frog eyes on top meant to be worn with the froggy lolita dress.  It attracts attention.",
+                "color": "gray",
+                "weight": 1,
+                "append": true
+            },
+            {
+                "id": "lolita_headdress_mermaid",
+                "name": { "str": "mermaid lolita headdress" },
+                "description": "A lacy headdress covered in rainbow sequines and a big seashell on top, meant to be worn with the mermaid lolita dress.  It attracts attention.",
+                "color": "gray",
+                "weight": 1,
+                "append": true
+            },
+            {
+                "id": "lolita_headdress_bunny",
+                "name": { "str": "bunny lolita headdress" },
+                "description": "A lacy headdress with two floppy ears on top, meant to be worn with the bunny lolita dress.  It attracts attention.",
+                "color": "gray",
+                "weight": 1,
+                "append": true
+            },
+            {
+                "id": "lolita_headdress_cat",
+                "name": { "str": "cat lolita headdress" },
+                "description": "A lacy headdress with two pointy cat ears, meant to be worn with the cat lolita dress.  It attracts attention.",
+                "color": "gray",
+                "weight": 1,
+                "append": true
+            }
+        ]
+    }
+]
